@@ -1,6 +1,6 @@
 # Windows 11 ISO without Microsoft account
 
-Windows 11 is the latest operating system from Microsoft, designed to provide a seamless and modern user experience. With its fresh and visually appealing interface, Windows 11 brings a centered Start Menu, rounded corners, and a more streamlined taskbar, enhancing both aesthetics and functionality.
+Windows 11 is the latest operating system from Microsoft, designed to provide a seamless and modern user experience. With its fresh and visually appealing interface, Windows 11 brings a centered Start Menu, rounded corners, and a more streamlined taskbar, enhancing both aesthetics and functionality. But many are irritated by the installation of version 11 because of the mandatory registration of a Microsoft account.
 
 *Download links*
 
